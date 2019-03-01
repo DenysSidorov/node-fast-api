@@ -1,3 +1,5 @@
+- Встроенные модули http, path, fs, events и другие.
+- event loop
 - modules
 - buffer
 - stream
